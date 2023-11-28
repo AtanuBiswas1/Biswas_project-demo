@@ -1,2 +1,3 @@
-# Biswas_project-demo1
+# Biswas_project-demo
 This is my first project
+Author Atanu Biswas
